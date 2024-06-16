@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='"C:\Users\bsala\Downloads\127.0.0.1_3000_index.html and 18 more pages - Personal - Microsoft​ Edge 2024-06-15 21-43-03.mp4"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='""C:\Users\bsala\OneDrive\Desktop\Meeting With kevin lawton\ALL PODCAST FILES\seamonster.gif""' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
