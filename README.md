@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='""https://github.com/BrandonSalazarNY/web102_prework/assets/152353243/a7ff6bc0-59e6-4360-be2b-1f85d5385d2d""' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='""Untitled video - Made with Clipchamp (14).mp4""' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
